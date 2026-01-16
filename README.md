@@ -1,2 +1,2 @@
-# DSCI560
-Lab assignments for DSCI 560 - Data Science Professional Practicum
+# DSCI560 - Lab 1
+Lab 1 assignment for DSCI 560 - Data Science Professional Practicum
